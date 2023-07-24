@@ -1,0 +1,613 @@
+[2023-07-20 17:12:47,536: INFO: common_functionality: yaml file: config\config.yaml loaded successfully]
+[2023-07-20 17:12:47,653: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-20 17:13:55,543: INFO: common_functionality: yaml file: config\config.yaml loaded successfully]
+[2023-07-20 17:13:55,624: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-20 17:13:55,713: INFO: common_functionality: created directory at: artifacts]
+[2023-07-20 17:13:55,716: INFO: common_functionality: created directory at: artifacts/data_ingestion]
+[2023-07-20 17:13:57,759: INFO: 137082402: Phishing data Saved!]
+[2023-07-20 17:13:59,452: INFO: 137082402: Legit data Saved!]
+[2023-07-20 17:14:17,425: INFO: 137082402: Ranking data Saved!]
+[2023-07-20 17:27:42,496: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-07-20 17:27:42,501: INFO: common_functionality: yaml file: config\config.yaml loaded successfully]
+[2023-07-20 17:27:42,502: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-20 17:27:42,503: INFO: common_functionality: created directory at: artifacts]
+[2023-07-20 17:27:42,504: INFO: common_functionality: created directory at: artifacts/data_ingestion]
+[2023-07-20 17:27:43,848: INFO: data_ingestion: Phishing data Saved!]
+[2023-07-20 17:27:45,310: INFO: data_ingestion: Legit data Saved!]
+[2023-07-20 17:28:01,647: INFO: data_ingestion: Ranking data Saved!]
+[2023-07-20 17:28:01,672: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2023-07-20 19:11:23,574: INFO: common_functionality: yaml file: config\config.yaml loaded successfully]
+[2023-07-20 19:11:23,659: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-20 19:11:23,694: INFO: common_functionality: created directory at: artifacts]
+[2023-07-20 19:11:23,697: INFO: common_functionality: created directory at: artifacts/data_processing]
+[2023-07-20 19:11:25,499: INFO: 3160470418: Data cleaning done]
+[2023-07-20 19:11:25,504: INFO: 3160470418: name 'featureExtraction' is not defined]
+[2023-07-20 19:11:25,512: INFO: 3160470418: name 'featureExtraction' is not defined]
+[2023-07-20 19:15:05,741: INFO: common_functionality: yaml file: config\config.yaml loaded successfully]
+[2023-07-20 19:15:05,746: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-20 19:15:05,749: INFO: common_functionality: created directory at: artifacts]
+[2023-07-20 19:15:05,752: INFO: common_functionality: created directory at: artifacts/data_processing]
+[2023-07-20 19:15:06,258: INFO: 3160470418: Data cleaning done]
+[2023-07-20 19:15:06,269: INFO: 3160470418: name 'featureExtraction' is not defined]
+[2023-07-20 19:15:06,272: INFO: 3160470418: name 'featureExtraction' is not defined]
+[2023-07-20 19:17:23,684: INFO: common_functionality: yaml file: config\config.yaml loaded successfully]
+[2023-07-20 19:17:23,693: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-20 19:17:23,696: INFO: common_functionality: created directory at: artifacts]
+[2023-07-20 19:17:23,700: INFO: common_functionality: created directory at: artifacts/data_processing]
+[2023-07-20 19:17:24,074: INFO: 110456258: Data cleaning done]
+[2023-07-20 19:17:24,081: INFO: 110456258: name 'featureExtraction' is not defined]
+[2023-07-20 19:17:24,083: INFO: 110456258: name 'featureExtraction' is not defined]
+[2023-07-20 19:29:26,837: INFO: common_functionality: yaml file: config\config.yaml loaded successfully]
+[2023-07-20 19:29:26,847: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-20 19:29:26,848: INFO: common_functionality: created directory at: artifacts]
+[2023-07-20 19:29:26,865: INFO: common_functionality: created directory at: artifacts/data_processing]
+[2023-07-20 19:29:27,280: INFO: 110456258: Data cleaning done]
+[2023-07-20 19:36:18,766: INFO: 110456258: Final data is saved!]
+[2023-07-20 20:00:44,288: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-07-20 20:00:44,301: INFO: common_functionality: yaml file: config\config.yaml loaded successfully]
+[2023-07-20 20:00:44,302: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-20 20:00:44,307: INFO: common_functionality: created directory at: artifacts]
+[2023-07-20 20:00:44,308: INFO: common_functionality: created directory at: artifacts/data_ingestion]
+[2023-07-20 20:00:46,025: INFO: data_ingestion: Phishing data Saved!]
+[2023-07-20 20:00:47,614: INFO: data_ingestion: Legit data Saved!]
+[2023-07-20 20:01:04,623: INFO: data_ingestion: Ranking data Saved!]
+[2023-07-20 20:01:04,652: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2023-07-20 20:01:04,655: INFO: main: >>>>>> stage Data Processing stage started <<<<<<]
+[2023-07-20 20:01:04,662: INFO: common_functionality: yaml file: config\config.yaml loaded successfully]
+[2023-07-20 20:01:04,666: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-20 20:01:04,667: INFO: common_functionality: created directory at: artifacts]
+[2023-07-20 20:01:04,669: INFO: common_functionality: created directory at: artifacts/data_processing]
+[2023-07-20 20:01:04,964: INFO: data_processing: Data cleaning done]
+[2023-07-20 20:07:13,891: INFO: data_processing: Final data is saved!]
+[2023-07-20 20:07:13,893: INFO: main: >>>>>> stage Data Processing stage completed <<<<<<
+
+x==========x]
+[2023-07-20 23:09:30,364: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-07-20 23:09:30,488: INFO: common_functionality: yaml file: config\config.yaml loaded successfully]
+[2023-07-20 23:09:30,529: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-20 23:09:30,544: INFO: common_functionality: created directory at: artifacts]
+[2023-07-20 23:09:30,553: INFO: common_functionality: created directory at: artifacts/data_ingestion]
+[2023-07-20 23:09:32,500: INFO: data_ingestion: Phishing data Saved!]
+[2023-07-20 23:09:34,013: INFO: data_ingestion: Legit data Saved!]
+[2023-07-20 23:09:48,940: INFO: data_ingestion: Ranking data Saved!]
+[2023-07-20 23:09:48,966: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2023-07-20 23:09:48,967: INFO: main: >>>>>> stage Data Processing stage started <<<<<<]
+[2023-07-20 23:09:48,974: INFO: common_functionality: yaml file: config\config.yaml loaded successfully]
+[2023-07-20 23:09:48,984: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-20 23:09:48,985: INFO: common_functionality: created directory at: artifacts]
+[2023-07-20 23:09:49,043: INFO: common_functionality: created directory at: artifacts/data_processing]
+[2023-07-20 23:09:49,642: INFO: data_processing: Data cleaning done]
+[2023-07-21 12:35:48,104: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-21 12:36:16,961: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-21 12:37:03,753: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-21 12:37:20,412: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-21 12:37:43,510: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-21 12:37:57,282: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-21 12:38:05,046: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-21 12:38:11,740: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-21 12:38:31,034: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-21 12:38:52,723: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-21 12:39:04,469: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-21 12:39:21,051: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-21 12:39:29,663: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-21 12:40:13,820: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-21 12:42:15,073: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-21 12:42:28,749: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-21 12:42:51,681: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-21 13:00:46,568: INFO: common_functionality: yaml file: config\config.yaml loaded successfully]
+[2023-07-21 13:00:46,676: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-21 13:00:46,681: INFO: common_functionality: created directory at: artifacts]
+[2023-07-21 13:01:10,466: INFO: common_functionality: yaml file: config\config.yaml loaded successfully]
+[2023-07-21 13:01:10,492: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-21 13:01:10,496: INFO: common_functionality: created directory at: artifacts]
+[2023-07-21 13:02:24,157: INFO: common_functionality: yaml file: config\config.yaml loaded successfully]
+[2023-07-21 13:02:24,174: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-21 13:02:24,179: INFO: common_functionality: created directory at: artifacts]
+[2023-07-21 13:02:51,731: INFO: common_functionality: yaml file: config\config.yaml loaded successfully]
+[2023-07-21 13:02:51,748: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-21 13:02:51,756: INFO: common_functionality: created directory at: artifacts]
+[2023-07-21 13:04:15,511: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-21 13:04:42,336: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-21 14:51:58,766: INFO: common_functionality: yaml file: config\config.yaml loaded successfully]
+[2023-07-21 14:51:58,833: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-21 14:51:58,836: INFO: common_functionality: created directory at: artifacts]
+[2023-07-21 14:51:58,924: INFO: common_functionality: created directory at: artifacts/model_building]
+[2023-07-21 14:52:06,400: INFO: common_functionality: Exception Occured in load_object function utils:No module named 'pandas.core.indexes.numeric']
+[2023-07-21 14:53:07,417: INFO: common_functionality: yaml file: config\config.yaml loaded successfully]
+[2023-07-21 14:53:07,426: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-21 14:53:07,427: INFO: common_functionality: created directory at: artifacts]
+[2023-07-21 14:53:07,431: INFO: common_functionality: created directory at: artifacts/model_building]
+[2023-07-21 14:53:07,434: INFO: common_functionality: Exception Occured in load_object function utils:No module named 'pandas.core.indexes.numeric']
+[2023-07-21 15:10:13,922: INFO: common_functionality: Exception Occured in load_object function utils:No module named 'pandas.core.indexes.numeric']
+[2023-07-21 15:14:31,010: INFO: common_functionality: yaml file: config\config.yaml loaded successfully]
+[2023-07-21 15:14:31,022: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-21 15:14:31,025: INFO: common_functionality: created directory at: artifacts]
+[2023-07-21 15:14:31,027: INFO: common_functionality: created directory at: artifacts/model_building]
+[2023-07-21 15:14:31,052: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-21 15:16:47,260: INFO: common_functionality: yaml file: config\config.yaml loaded successfully]
+[2023-07-21 15:16:47,344: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-21 15:16:47,351: INFO: common_functionality: created directory at: artifacts]
+[2023-07-21 15:16:47,351: INFO: common_functionality: created directory at: artifacts/model_building]
+[2023-07-21 15:16:47,415: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-21 15:16:50,641: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-21 15:16:51,017: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-21 15:17:06,408: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-21 15:17:45,182: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-21 15:20:40,895: INFO: common_functionality: yaml file: config\config.yaml loaded successfully]
+[2023-07-21 15:20:40,917: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-21 15:20:40,926: INFO: common_functionality: created directory at: artifacts]
+[2023-07-21 15:20:40,928: INFO: common_functionality: created directory at: artifacts/model_building]
+[2023-07-21 15:20:40,950: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-21 15:20:42,501: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-21 15:20:42,841: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-21 15:21:17,622: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-21 15:22:14,939: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-21 15:26:04,375: INFO: common_functionality: yaml file: config\config.yaml loaded successfully]
+[2023-07-21 15:26:04,410: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-21 15:26:04,430: INFO: common_functionality: created directory at: artifacts]
+[2023-07-21 15:26:04,432: INFO: common_functionality: created directory at: artifacts/model_building]
+[2023-07-21 15:26:04,454: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-21 15:27:12,601: INFO: common_functionality: yaml file: config\config.yaml loaded successfully]
+[2023-07-21 15:27:12,629: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-21 15:27:12,633: INFO: common_functionality: created directory at: artifacts]
+[2023-07-21 15:27:12,636: INFO: common_functionality: created directory at: artifacts/model_building]
+[2023-07-21 15:27:12,662: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-21 15:28:26,721: INFO: common_functionality: yaml file: config\config.yaml loaded successfully]
+[2023-07-21 15:28:26,740: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-21 15:28:26,744: INFO: common_functionality: created directory at: artifacts]
+[2023-07-21 15:28:26,745: INFO: common_functionality: created directory at: artifacts/model_building]
+[2023-07-21 15:28:26,771: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-21 15:28:32,525: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-21 15:28:32,947: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-21 15:28:41,789: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-21 15:28:52,263: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-21 15:34:06,189: INFO: common_functionality: yaml file: config\config.yaml loaded successfully]
+[2023-07-21 15:34:06,218: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-21 15:34:06,224: INFO: common_functionality: created directory at: artifacts]
+[2023-07-21 15:34:06,226: INFO: common_functionality: created directory at: artifacts/model_building]
+[2023-07-21 15:34:06,241: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-21 15:34:12,340: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-21 15:34:12,706: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-21 15:34:22,837: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-21 15:34:33,256: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-21 15:36:57,545: INFO: common_functionality: yaml file: config\config.yaml loaded successfully]
+[2023-07-21 15:36:57,559: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-21 15:36:57,563: INFO: common_functionality: created directory at: artifacts]
+[2023-07-21 15:36:57,567: INFO: common_functionality: created directory at: artifacts/model_building]
+[2023-07-21 15:36:57,596: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-21 15:37:04,237: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-21 15:37:04,717: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-21 15:37:14,994: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-21 15:37:24,829: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-21 15:42:46,238: INFO: common_functionality: yaml file: config\config.yaml loaded successfully]
+[2023-07-21 15:42:46,254: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-21 15:42:46,258: INFO: common_functionality: created directory at: artifacts]
+[2023-07-21 15:42:46,260: INFO: common_functionality: created directory at: artifacts/model_building]
+[2023-07-21 15:42:46,281: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-21 15:42:52,192: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-21 15:42:52,567: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-21 15:43:00,510: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-21 15:43:10,502: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-21 16:09:48,933: INFO: common_functionality: yaml file: config\config.yaml loaded successfully]
+[2023-07-21 16:09:48,981: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-21 16:09:48,990: INFO: common_functionality: created directory at: artifacts]
+[2023-07-21 16:09:48,998: INFO: common_functionality: created directory at: artifacts/model_building]
+[2023-07-21 16:11:26,665: INFO: common_functionality: yaml file: config\config.yaml loaded successfully]
+[2023-07-21 16:11:26,684: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-21 16:11:26,691: INFO: common_functionality: created directory at: artifacts]
+[2023-07-21 16:11:26,695: INFO: common_functionality: created directory at: artifacts/model_building]
+[2023-07-21 16:11:27,976: INFO: 1190811214: Trained model is saved]
+[2023-07-21 16:21:30,276: INFO: main: >>>>>> stage Model Building stage started <<<<<<]
+[2023-07-21 16:21:30,314: INFO: common_functionality: yaml file: config\config.yaml loaded successfully]
+[2023-07-21 16:21:30,346: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-21 16:21:30,347: INFO: common_functionality: created directory at: artifacts]
+[2023-07-21 16:21:30,349: INFO: common_functionality: created directory at: artifacts/model_building]
+[2023-07-21 16:21:31,484: INFO: model_building: Trained model is saved]
+[2023-07-21 16:21:31,488: INFO: main: >>>>>> stage Model Building stage completed <<<<<<
+
+x==========x]
+[2023-07-21 16:30:04,511: INFO: common_functionality: yaml file: config\config.yaml loaded successfully]
+[2023-07-21 16:30:04,517: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-21 16:30:04,523: INFO: common_functionality: created directory at: artifacts]
+[2023-07-21 16:30:07,420: INFO: common_functionality: Exception Occured in load_object function utils:No module named 'pandas.core.indexes.numeric']
+[2023-07-21 16:34:51,178: INFO: common_functionality: yaml file: config\config.yaml loaded successfully]
+[2023-07-21 16:34:51,186: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-21 16:34:51,194: INFO: common_functionality: created directory at: artifacts]
+[2023-07-21 16:35:21,333: INFO: common_functionality: yaml file: config\config.yaml loaded successfully]
+[2023-07-21 16:35:21,345: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-21 16:35:21,348: INFO: common_functionality: created directory at: artifacts]
+[2023-07-21 16:36:08,390: INFO: common_functionality: yaml file: config\config.yaml loaded successfully]
+[2023-07-21 16:36:08,398: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-21 16:36:08,402: INFO: common_functionality: created directory at: artifacts]
+[2023-07-21 16:39:33,447: INFO: common_functionality: yaml file: config\config.yaml loaded successfully]
+[2023-07-21 16:39:33,454: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-21 16:39:33,457: INFO: common_functionality: created directory at: artifacts]
+[2023-07-21 16:40:35,419: INFO: common_functionality: yaml file: config\config.yaml loaded successfully]
+[2023-07-21 16:40:35,428: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-21 16:40:35,436: INFO: common_functionality: created directory at: artifacts]
+[2023-07-21 16:42:55,748: INFO: common_functionality: yaml file: config\config.yaml loaded successfully]
+[2023-07-21 16:42:55,752: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-21 16:42:55,755: INFO: common_functionality: created directory at: artifacts]
+[2023-07-21 16:42:56,269: INFO: common_functionality: json file saved at: scores.json]
+[2023-07-21 16:51:22,436: INFO: main: >>>>>> stage Model Building stage started <<<<<<]
+[2023-07-21 16:51:22,448: INFO: common_functionality: yaml file: config\config.yaml loaded successfully]
+[2023-07-21 16:51:22,461: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-21 16:51:22,462: INFO: common_functionality: created directory at: artifacts]
+[2023-07-21 16:51:22,463: INFO: common_functionality: created directory at: artifacts/model_building]
+[2023-07-21 16:51:23,504: INFO: model_building: Trained model is saved]
+[2023-07-21 16:51:23,507: INFO: main: >>>>>> stage Model Building stage completed <<<<<<
+
+x==========x]
+[2023-07-21 16:51:23,510: INFO: main: >>>>>> stage Model Evaluation stage started <<<<<<]
+[2023-07-21 16:51:23,512: INFO: common_functionality: yaml file: config\config.yaml loaded successfully]
+[2023-07-21 16:51:23,517: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-21 16:51:23,520: INFO: common_functionality: created directory at: artifacts]
+[2023-07-21 16:51:23,554: ERROR: main: name 'Path' is not defined]
+Traceback (most recent call last):
+  File "main.py", line 53, in <module>
+    model_evaluation.main()
+  File "C:\Users\USER\Documents\JupyterNB\ineuron\Python Advanced\Phishing_detection\src\phishingdetection\pipeline\stage_04_model_evaluation.py", line 16, in main
+    evaluation.evaluate(evaluation_config.trained_model_path, evaluation_config.test_data_path)
+  File "C:\Users\USER\Documents\JupyterNB\ineuron\Python Advanced\Phishing_detection\src\phishingdetection\components\model_evaluation.py", line 29, in evaluate
+    save_json(Path('scores.json'),score_dic)
+NameError: name 'Path' is not defined
+[2023-07-21 16:58:50,942: INFO: main: >>>>>> stage Model Building stage started <<<<<<]
+[2023-07-21 16:58:50,968: INFO: common_functionality: yaml file: config\config.yaml loaded successfully]
+[2023-07-21 16:58:50,977: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-21 16:58:50,978: INFO: common_functionality: created directory at: artifacts]
+[2023-07-21 16:58:50,980: INFO: common_functionality: created directory at: artifacts/model_building]
+[2023-07-21 16:58:52,058: INFO: model_building: Trained model is saved]
+[2023-07-21 16:58:52,062: INFO: main: >>>>>> stage Model Building stage completed <<<<<<
+
+x==========x]
+[2023-07-21 16:58:52,064: INFO: main: >>>>>> stage Model Evaluation stage started <<<<<<]
+[2023-07-21 16:58:52,072: INFO: common_functionality: yaml file: config\config.yaml loaded successfully]
+[2023-07-21 16:58:52,081: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-21 16:58:52,083: INFO: common_functionality: created directory at: artifacts]
+[2023-07-21 16:58:52,124: INFO: common_functionality: json file saved at: scores.json]
+[2023-07-21 16:58:52,131: INFO: main: >>>>>> stage Model Evaluation stage completed <<<<<<
+
+x==========x]
+[2023-07-21 17:45:28,803: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.6:5000]
+[2023-07-21 17:45:28,803: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2023-07-21 17:45:43,148: INFO: _internal: 192.168.1.6 - - [21/Jul/2023 17:45:43] "[33mGET / HTTP/1.1[0m" 404 -]
+[2023-07-21 17:45:44,399: INFO: _internal: 192.168.1.6 - - [21/Jul/2023 17:45:44] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -]
+[2023-07-21 17:45:53,010: INFO: _internal: 192.168.1.6 - - [21/Jul/2023 17:45:53] "GET /home HTTP/1.1" 200 -]
+[2023-07-21 17:46:17,957: ERROR: app: Exception on /check_phishing [POST]]
+Traceback (most recent call last):
+  File "C:\Users\USER\anaconda3\envs\phishingdetect\lib\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\USER\anaconda3\envs\phishingdetect\lib\site-packages\flask\app.py", line 1486, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\USER\anaconda3\envs\phishingdetect\lib\site-packages\flask\app.py", line 1484, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\USER\anaconda3\envs\phishingdetect\lib\site-packages\flask\app.py", line 1469, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "application.py", line 29, in phishing_check
+    isphishing = pred_obj.predict()
+  File "C:\Users\USER\Documents\JupyterNB\ineuron\Python Advanced\Phishing_detection\src\phishingdetection\pipeline\predict.py", line 20, in predict
+    final_df_scaled = scaler.transform(final_df)
+  File "C:\Users\USER\anaconda3\envs\phishingdetect\lib\site-packages\sklearn\utils\_set_output.py", line 140, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+  File "C:\Users\USER\anaconda3\envs\phishingdetect\lib\site-packages\sklearn\preprocessing\_data.py", line 1001, in transform
+    check_is_fitted(self)
+  File "C:\Users\USER\anaconda3\envs\phishingdetect\lib\site-packages\sklearn\utils\validation.py", line 1462, in check_is_fitted
+    raise NotFittedError(msg % {"name": type(estimator).__name__})
+sklearn.exceptions.NotFittedError: This StandardScaler instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+[2023-07-21 17:46:18,014: INFO: _internal: 192.168.1.6 - - [21/Jul/2023 17:46:18] "[35m[1mPOST /check_phishing HTTP/1.1[0m" 500 -]
+[2023-07-21 18:01:28,272: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.6:5000]
+[2023-07-21 18:01:28,273: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2023-07-21 18:01:39,441: INFO: _internal: 192.168.1.6 - - [21/Jul/2023 18:01:39] "[33mGET / HTTP/1.1[0m" 404 -]
+[2023-07-21 18:01:48,923: INFO: _internal: 192.168.1.6 - - [21/Jul/2023 18:01:48] "GET /home HTTP/1.1" 200 -]
+[2023-07-21 18:01:59,773: INFO: _internal: 192.168.1.6 - - [21/Jul/2023 18:01:59] "POST /check_phishing HTTP/1.1" 200 -]
+[2023-07-21 18:02:11,143: INFO: _internal: 192.168.1.6 - - [21/Jul/2023 18:02:11] "POST /check_phishing HTTP/1.1" 200 -]
+[2023-07-21 18:03:28,602: INFO: _internal: 192.168.1.6 - - [21/Jul/2023 18:03:28] "POST /check_phishing HTTP/1.1" 200 -]
+[2023-07-21 18:04:16,209: INFO: _internal: 192.168.1.6 - - [21/Jul/2023 18:04:16] "POST /check_phishing HTTP/1.1" 200 -]
+[2023-07-21 18:04:29,364: INFO: _internal: 192.168.1.6 - - [21/Jul/2023 18:04:29] "POST /check_phishing HTTP/1.1" 200 -]
+[2023-07-21 18:04:40,811: INFO: _internal: 192.168.1.6 - - [21/Jul/2023 18:04:40] "POST /check_phishing HTTP/1.1" 200 -]
+[2023-07-21 18:04:57,052: INFO: _internal: 192.168.1.6 - - [21/Jul/2023 18:04:57] "POST /check_phishing HTTP/1.1" 200 -]
+[2023-07-21 18:05:42,077: INFO: _internal: 192.168.1.6 - - [21/Jul/2023 18:05:42] "POST /check_phishing HTTP/1.1" 200 -]
+[2023-07-21 18:06:04,554: INFO: _internal: 192.168.1.6 - - [21/Jul/2023 18:06:04] "POST /check_phishing HTTP/1.1" 200 -]
+[2023-07-21 18:06:07,934: INFO: _internal: 192.168.1.6 - - [21/Jul/2023 18:06:07] "POST /check_phishing HTTP/1.1" 200 -]
+[2023-07-21 18:06:17,056: INFO: _internal: 192.168.1.6 - - [21/Jul/2023 18:06:17] "POST /check_phishing HTTP/1.1" 200 -]
+[2023-07-21 18:08:10,579: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.6:5000]
+[2023-07-21 18:08:10,580: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2023-07-21 18:08:22,031: INFO: _internal: 192.168.1.6 - - [21/Jul/2023 18:08:22] "[33mGET / HTTP/1.1[0m" 404 -]
+[2023-07-21 18:08:26,942: INFO: _internal: 192.168.1.6 - - [21/Jul/2023 18:08:26] "GET /home HTTP/1.1" 200 -]
+[2023-07-21 18:08:35,425: INFO: _internal: 192.168.1.6 - - [21/Jul/2023 18:08:35] "POST /check_phishing HTTP/1.1" 200 -]
+[2023-07-21 18:11:05,793: INFO: _internal: 192.168.1.6 - - [21/Jul/2023 18:11:05] "POST /check_phishing HTTP/1.1" 200 -]
+[2023-07-21 18:11:15,928: INFO: _internal: 192.168.1.6 - - [21/Jul/2023 18:11:15] "POST /check_phishing HTTP/1.1" 200 -]
+[2023-07-21 18:11:48,643: INFO: _internal: 192.168.1.6 - - [21/Jul/2023 18:11:48] "POST /check_phishing HTTP/1.1" 200 -]
+[2023-07-21 18:12:51,221: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.6:5000]
+[2023-07-21 18:12:51,222: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2023-07-21 18:13:02,031: INFO: _internal: 192.168.1.6 - - [21/Jul/2023 18:13:02] "[33mGET / HTTP/1.1[0m" 404 -]
+[2023-07-21 18:13:05,361: INFO: _internal: 192.168.1.6 - - [21/Jul/2023 18:13:05] "GET /home HTTP/1.1" 200 -]
+[2023-07-21 18:13:22,742: INFO: _internal: 192.168.1.6 - - [21/Jul/2023 18:13:22] "POST /check_phishing HTTP/1.1" 200 -]
+[2023-07-21 18:14:53,772: INFO: _internal: 192.168.1.6 - - [21/Jul/2023 18:14:53] "POST /check_phishing HTTP/1.1" 200 -]
+[2023-07-21 18:15:38,968: INFO: _internal: 192.168.1.6 - - [21/Jul/2023 18:15:38] "POST /check_phishing HTTP/1.1" 200 -]
+[2023-07-21 18:16:41,409: INFO: _internal: 192.168.1.6 - - [21/Jul/2023 18:16:41] "POST /check_phishing HTTP/1.1" 200 -]
+[2023-07-21 18:20:05,419: INFO: _internal: 192.168.1.6 - - [21/Jul/2023 18:20:05] "POST /check_phishing HTTP/1.1" 200 -]
+[2023-07-21 19:47:16,227: INFO: main: >>>>>> stage Model Building stage started <<<<<<]
+[2023-07-21 19:47:16,278: INFO: common_functionality: yaml file: config\config.yaml loaded successfully]
+[2023-07-21 19:47:16,313: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-21 19:47:16,327: INFO: common_functionality: created directory at: artifacts]
+[2023-07-21 19:47:16,329: INFO: common_functionality: created directory at: artifacts/model_building]
+[2023-07-21 19:47:17,611: INFO: model_building: Trained model is saved]
+[2023-07-21 19:47:17,611: INFO: main: >>>>>> stage Model Building stage completed <<<<<<
+
+x==========x]
+[2023-07-21 19:47:17,614: INFO: main: >>>>>> stage Model Evaluation stage started <<<<<<]
+[2023-07-21 19:47:17,627: INFO: common_functionality: yaml file: config\config.yaml loaded successfully]
+[2023-07-21 19:47:17,631: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-21 19:47:17,634: INFO: common_functionality: created directory at: artifacts]
+[2023-07-21 19:47:17,814: INFO: common_functionality: json file saved at: scores.json]
+[2023-07-21 19:47:17,823: INFO: main: >>>>>> stage Model Evaluation stage completed <<<<<<
+
+x==========x]
+[2023-07-21 19:47:55,132: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.6:5000]
+[2023-07-21 19:47:55,135: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2023-07-21 19:48:01,486: INFO: _internal: 192.168.1.6 - - [21/Jul/2023 19:48:01] "[33mGET / HTTP/1.1[0m" 404 -]
+[2023-07-21 19:48:05,315: INFO: _internal: 192.168.1.6 - - [21/Jul/2023 19:48:05] "GET /home HTTP/1.1" 200 -]
+[2023-07-21 19:48:30,224: INFO: _internal: 192.168.1.6 - - [21/Jul/2023 19:48:30] "POST /check_phishing HTTP/1.1" 200 -]
+[2023-07-21 19:49:06,870: INFO: _internal: 192.168.1.6 - - [21/Jul/2023 19:49:06] "POST /check_phishing HTTP/1.1" 200 -]
+[2023-07-21 19:49:21,619: INFO: _internal: 192.168.1.6 - - [21/Jul/2023 19:49:21] "POST /check_phishing HTTP/1.1" 200 -]
+[2023-07-21 19:49:43,151: INFO: _internal: 192.168.1.6 - - [21/Jul/2023 19:49:43] "POST /check_phishing HTTP/1.1" 200 -]
+[2023-07-21 19:49:56,897: INFO: _internal: 192.168.1.6 - - [21/Jul/2023 19:49:56] "POST /check_phishing HTTP/1.1" 200 -]
+[2023-07-21 19:51:21,502: INFO: _internal: 192.168.1.6 - - [21/Jul/2023 19:51:21] "POST /check_phishing HTTP/1.1" 200 -]
+[2023-07-21 19:51:25,082: INFO: _internal: 192.168.1.6 - - [21/Jul/2023 19:51:25] "POST /check_phishing HTTP/1.1" 200 -]
+[2023-07-21 19:51:32,678: INFO: _internal: 192.168.1.6 - - [21/Jul/2023 19:51:32] "POST /check_phishing HTTP/1.1" 200 -]
+[2023-07-21 20:04:01,423: INFO: main: >>>>>> stage Model Building stage started <<<<<<]
+[2023-07-21 20:04:01,434: INFO: common_functionality: yaml file: config\config.yaml loaded successfully]
+[2023-07-21 20:04:01,446: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-21 20:04:01,446: INFO: common_functionality: created directory at: artifacts]
+[2023-07-21 20:04:01,452: INFO: common_functionality: created directory at: artifacts/model_building]
+[2023-07-21 20:04:02,490: INFO: model_building: Trained model is saved]
+[2023-07-21 20:04:02,494: INFO: main: >>>>>> stage Model Building stage completed <<<<<<
+
+x==========x]
+[2023-07-21 20:04:02,495: INFO: main: >>>>>> stage Model Evaluation stage started <<<<<<]
+[2023-07-21 20:04:02,510: INFO: common_functionality: yaml file: config\config.yaml loaded successfully]
+[2023-07-21 20:04:02,513: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-21 20:04:02,516: INFO: common_functionality: created directory at: artifacts]
+[2023-07-21 20:04:02,571: INFO: common_functionality: json file saved at: scores.json]
+[2023-07-21 20:04:02,573: INFO: main: >>>>>> stage Model Evaluation stage completed <<<<<<
+
+x==========x]
+[2023-07-21 20:04:35,060: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.6:5000]
+[2023-07-21 20:04:35,063: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2023-07-21 20:04:41,736: INFO: _internal: 192.168.1.6 - - [21/Jul/2023 20:04:41] "[33mGET / HTTP/1.1[0m" 404 -]
+[2023-07-21 20:04:46,840: INFO: _internal: 192.168.1.6 - - [21/Jul/2023 20:04:46] "GET /home HTTP/1.1" 200 -]
+[2023-07-21 20:05:03,589: INFO: _internal: 192.168.1.6 - - [21/Jul/2023 20:05:03] "POST /check_phishing HTTP/1.1" 200 -]
+[2023-07-21 20:08:42,240: INFO: _internal: 192.168.1.6 - - [21/Jul/2023 20:08:42] "POST /check_phishing HTTP/1.1" 200 -]
+[2023-07-21 20:10:20,737: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.6:5000]
+[2023-07-21 20:10:20,743: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2023-07-21 20:10:23,847: INFO: _internal: 127.0.0.1 - - [21/Jul/2023 20:10:23] "[33mGET / HTTP/1.1[0m" 404 -]
+[2023-07-21 20:10:24,808: INFO: _internal: 127.0.0.1 - - [21/Jul/2023 20:10:24] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -]
+[2023-07-21 20:10:33,976: INFO: _internal: 127.0.0.1 - - [21/Jul/2023 20:10:33] "GET /home HTTP/1.1" 200 -]
+[2023-07-21 20:10:59,056: INFO: _internal: 127.0.0.1 - - [21/Jul/2023 20:10:59] "POST /check_phishing HTTP/1.1" 200 -]
+[2023-07-21 20:15:55,212: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.6:5000]
+[2023-07-21 20:15:55,213: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2023-07-21 20:16:12,973: INFO: _internal: 192.168.1.6 - - [21/Jul/2023 20:16:12] "[33mGET / HTTP/1.1[0m" 404 -]
+[2023-07-21 20:16:17,122: INFO: _internal: 192.168.1.6 - - [21/Jul/2023 20:16:17] "GET /home HTTP/1.1" 200 -]
+[2023-07-21 20:16:41,763: INFO: _internal: 192.168.1.6 - - [21/Jul/2023 20:16:41] "POST /check_phishing HTTP/1.1" 200 -]
+[2023-07-21 20:19:19,452: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.6:5000]
+[2023-07-21 20:19:19,453: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2023-07-21 20:19:27,512: INFO: _internal: 192.168.1.6 - - [21/Jul/2023 20:19:27] "[33mGET / HTTP/1.1[0m" 404 -]
+[2023-07-21 20:19:31,397: INFO: _internal: 192.168.1.6 - - [21/Jul/2023 20:19:31] "GET /home HTTP/1.1" 200 -]
+[2023-07-21 20:19:52,668: INFO: common_functionality: yaml file: config\config.yaml loaded successfully]
+[2023-07-21 20:19:54,947: INFO: _internal: 192.168.1.6 - - [21/Jul/2023 20:19:54] "POST /check_phishing HTTP/1.1" 200 -]
+[2023-07-21 20:21:09,883: INFO: common_functionality: yaml file: config\config.yaml loaded successfully]
+[2023-07-21 20:21:11,557: INFO: _internal: 192.168.1.6 - - [21/Jul/2023 20:21:11] "POST /check_phishing HTTP/1.1" 200 -]
+[2023-07-21 20:21:43,039: INFO: common_functionality: yaml file: config\config.yaml loaded successfully]
+[2023-07-21 20:21:44,602: INFO: _internal: 192.168.1.6 - - [21/Jul/2023 20:21:44] "POST /check_phishing HTTP/1.1" 200 -]
+[2023-07-21 20:25:21,384: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.6:5000]
+[2023-07-21 20:25:21,386: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2023-07-21 20:25:27,414: INFO: _internal: 192.168.1.6 - - [21/Jul/2023 20:25:27] "[33mGET / HTTP/1.1[0m" 404 -]
+[2023-07-21 20:25:31,516: INFO: _internal: 192.168.1.6 - - [21/Jul/2023 20:25:31] "GET /home HTTP/1.1" 200 -]
+[2023-07-21 20:25:58,714: INFO: common_functionality: yaml file: config\config.yaml loaded successfully]
+[2023-07-21 20:26:00,753: INFO: _internal: 192.168.1.6 - - [21/Jul/2023 20:26:00] "POST /check_phishing HTTP/1.1" 200 -]
+[2023-07-21 20:49:34,568: INFO: main: >>>>>> stage Model Building stage started <<<<<<]
+[2023-07-21 20:49:34,621: INFO: common_functionality: yaml file: config\config.yaml loaded successfully]
+[2023-07-21 20:49:34,655: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-21 20:49:34,667: INFO: common_functionality: created directory at: artifacts]
+[2023-07-21 20:49:34,673: INFO: common_functionality: created directory at: artifacts/model_building]
+[2023-07-21 20:49:35,229: INFO: model_building: Trained model is saved]
+[2023-07-21 20:49:35,232: INFO: main: >>>>>> stage Model Building stage completed <<<<<<
+
+x==========x]
+[2023-07-21 20:49:35,237: INFO: main: >>>>>> stage Model Evaluation stage started <<<<<<]
+[2023-07-21 20:49:35,263: INFO: common_functionality: yaml file: config\config.yaml loaded successfully]
+[2023-07-21 20:49:35,274: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-21 20:49:35,278: INFO: common_functionality: created directory at: artifacts]
+[2023-07-21 20:49:35,558: INFO: common_functionality: json file saved at: scores.json]
+[2023-07-21 20:49:35,559: INFO: main: >>>>>> stage Model Evaluation stage completed <<<<<<
+
+x==========x]
+[2023-07-21 20:50:11,499: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.6:5000]
+[2023-07-21 20:50:11,499: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2023-07-21 20:50:16,167: INFO: _internal: 192.168.1.6 - - [21/Jul/2023 20:50:16] "[33mGET / HTTP/1.1[0m" 404 -]
+[2023-07-21 20:50:19,867: INFO: _internal: 192.168.1.6 - - [21/Jul/2023 20:50:19] "GET /home HTTP/1.1" 200 -]
+[2023-07-21 20:50:31,080: INFO: common_functionality: yaml file: config\config.yaml loaded successfully]
+[2023-07-21 20:50:33,979: INFO: _internal: 192.168.1.6 - - [21/Jul/2023 20:50:33] "POST /check_phishing HTTP/1.1" 200 -]
+[2023-07-21 20:50:50,967: INFO: common_functionality: yaml file: config\config.yaml loaded successfully]
+[2023-07-21 20:50:52,681: INFO: _internal: 192.168.1.6 - - [21/Jul/2023 20:50:52] "POST /check_phishing HTTP/1.1" 200 -]
+[2023-07-21 20:51:08,793: INFO: common_functionality: yaml file: config\config.yaml loaded successfully]
+[2023-07-21 20:51:10,309: INFO: _internal: 192.168.1.6 - - [21/Jul/2023 20:51:10] "POST /check_phishing HTTP/1.1" 200 -]
+[2023-07-21 20:52:08,170: INFO: common_functionality: yaml file: config\config.yaml loaded successfully]
+[2023-07-21 20:52:09,642: INFO: _internal: 192.168.1.6 - - [21/Jul/2023 20:52:09] "POST /check_phishing HTTP/1.1" 200 -]
+[2023-07-21 20:52:33,918: INFO: common_functionality: yaml file: config\config.yaml loaded successfully]
+[2023-07-21 20:52:35,402: INFO: _internal: 192.168.1.6 - - [21/Jul/2023 20:52:35] "POST /check_phishing HTTP/1.1" 200 -]
+[2023-07-24 11:55:30,032: INFO: common_functionality: yaml file: config\config.yaml loaded successfully]
+[2023-07-24 11:55:30,147: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-24 11:55:30,153: INFO: common_functionality: created directory at: artifacts]
+[2023-07-24 11:55:30,157: INFO: common_functionality: created directory at: artifacts/model_building]
+[2023-07-24 11:55:30,320: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-24 11:55:35,955: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-24 11:55:36,354: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-24 11:55:45,421: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-24 11:55:52,378: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-24 12:18:09,427: INFO: common_functionality: yaml file: config\config.yaml loaded successfully]
+[2023-07-24 12:18:09,464: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-24 12:18:09,469: INFO: common_functionality: created directory at: artifacts]
+[2023-07-24 12:18:09,490: INFO: common_functionality: created directory at: artifacts/model_building]
+[2023-07-24 12:18:09,537: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-24 12:18:15,034: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-24 12:18:15,343: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-24 12:18:18,801: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-24 12:34:23,296: INFO: common_functionality: yaml file: config\config.yaml loaded successfully]
+[2023-07-24 12:34:23,311: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-24 12:34:23,313: INFO: common_functionality: created directory at: artifacts]
+[2023-07-24 12:34:23,316: INFO: common_functionality: created directory at: artifacts/model_building]
+[2023-07-24 12:35:09,340: INFO: common_functionality: yaml file: config\config.yaml loaded successfully]
+[2023-07-24 12:35:09,361: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-24 12:35:09,364: INFO: common_functionality: created directory at: artifacts]
+[2023-07-24 12:35:09,367: INFO: common_functionality: created directory at: artifacts/model_building]
+[2023-07-24 15:49:45,848: INFO: common_functionality: yaml file: config\config.yaml loaded successfully]
+[2023-07-24 15:49:45,876: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-24 15:49:45,879: INFO: common_functionality: created directory at: artifacts]
+[2023-07-24 15:49:45,883: INFO: common_functionality: created directory at: artifacts/model_building]
+[2023-07-24 15:49:45,986: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-24 15:56:45,817: INFO: main: >>>>>> stage Model Building stage started <<<<<<]
+[2023-07-24 15:56:45,832: INFO: common_functionality: yaml file: config\config.yaml loaded successfully]
+[2023-07-24 15:56:45,843: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-24 15:56:45,843: INFO: common_functionality: created directory at: artifacts]
+[2023-07-24 15:56:45,845: INFO: common_functionality: created directory at: artifacts/model_building]
+[2023-07-24 15:56:45,855: ERROR: main: "'ConfigBox' object has no attribute 'gradientboostingclassifier'"]
+Traceback (most recent call last):
+  File "box\box.py", line 503, in box.box.Box.__getitem__
+KeyError: 'GradientBoostingClassifier'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box\box.py", line 536, in box.box.Box.__getattr__
+  File "box\box.py", line 524, in box.box.Box.__getitem__
+box.exceptions.BoxKeyError: "'GradientBoostingClassifier'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box\box.py", line 538, in box.box.Box.__getattr__
+AttributeError: 'ConfigBox' object has no attribute 'GradientBoostingClassifier'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box\config_box.py", line 28, in box.config_box.ConfigBox.__getattr__
+  File "box\box.py", line 552, in box.box.Box.__getattr__
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'GradientBoostingClassifier'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box\box.py", line 503, in box.box.Box.__getitem__
+KeyError: 'gradientboostingclassifier'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box\box.py", line 536, in box.box.Box.__getattr__
+  File "box\box.py", line 524, in box.box.Box.__getitem__
+box.exceptions.BoxKeyError: "'gradientboostingclassifier'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box\box.py", line 538, in box.box.Box.__getattr__
+AttributeError: 'ConfigBox' object has no attribute 'gradientboostingclassifier'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "main.py", line 40, in <module>
+    model_building.main()
+  File "C:\Users\USER\Documents\JupyterNB\ineuron\Python Advanced\Phishing_detection\src\phishingdetection\pipeline\stage_03_model_building.py", line 14, in main
+    model_building_config = config.get_model_building_config()
+  File "C:\Users\USER\Documents\JupyterNB\ineuron\Python Advanced\Phishing_detection\src\phishingdetection\config\configuration.py", line 64, in get_model_building_config
+    GradientBoostingClassifier = self.params.GradientBoostingClassifier,
+  File "box\config_box.py", line 30, in box.config_box.ConfigBox.__getattr__
+  File "box\box.py", line 552, in box.box.Box.__getattr__
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'gradientboostingclassifier'"
+[2023-07-24 15:58:34,402: INFO: main: >>>>>> stage Model Building stage started <<<<<<]
+[2023-07-24 15:58:34,416: INFO: common_functionality: yaml file: config\config.yaml loaded successfully]
+[2023-07-24 15:58:34,433: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-24 15:58:34,433: INFO: common_functionality: created directory at: artifacts]
+[2023-07-24 15:58:34,490: INFO: common_functionality: created directory at: artifacts/model_building]
+[2023-07-24 15:58:34,538: INFO: model_building: Trained model is saved]
+[2023-07-24 15:58:34,540: INFO: main: >>>>>> stage Model Building stage completed <<<<<<
+
+x==========x]
+[2023-07-24 15:58:34,542: INFO: main: >>>>>> stage Model Evaluation stage started <<<<<<]
+[2023-07-24 15:58:34,546: INFO: common_functionality: yaml file: config\config.yaml loaded successfully]
+[2023-07-24 15:58:34,558: INFO: common_functionality: yaml file: params.yaml loaded successfully]
+[2023-07-24 15:58:34,563: INFO: common_functionality: created directory at: artifacts]
+[2023-07-24 15:58:34,596: INFO: common_functionality: json file saved at: scores.json]
+[2023-07-24 15:58:34,596: INFO: main: >>>>>> stage Model Evaluation stage completed <<<<<<
+
+x==========x]
+[2023-07-24 16:11:50,434: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.101:5000]
+[2023-07-24 16:11:50,451: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2023-07-24 16:11:57,774: INFO: _internal: 192.168.1.101 - - [24/Jul/2023 16:11:57] "[33mGET / HTTP/1.1[0m" 404 -]
+[2023-07-24 16:11:58,809: INFO: _internal: 192.168.1.101 - - [24/Jul/2023 16:11:58] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -]
+[2023-07-24 16:12:05,662: INFO: _internal: 192.168.1.101 - - [24/Jul/2023 16:12:05] "GET /home HTTP/1.1" 200 -]
+[2023-07-24 16:12:20,586: INFO: common_functionality: yaml file: config\config.yaml loaded successfully]
+[2023-07-24 16:12:22,626: INFO: _internal: 192.168.1.101 - - [24/Jul/2023 16:12:22] "POST /check_phishing HTTP/1.1" 200 -]
+[2023-07-24 16:13:23,496: INFO: common_functionality: yaml file: config\config.yaml loaded successfully]
+[2023-07-24 16:13:25,037: INFO: _internal: 192.168.1.101 - - [24/Jul/2023 16:13:25] "POST /check_phishing HTTP/1.1" 200 -]
+[2023-07-24 16:14:39,525: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.101:5000]
+[2023-07-24 16:14:39,526: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2023-07-24 16:14:45,649: INFO: _internal: 192.168.1.101 - - [24/Jul/2023 16:14:45] "[33mGET / HTTP/1.1[0m" 404 -]
+[2023-07-24 16:14:58,694: INFO: _internal: 192.168.1.101 - - [24/Jul/2023 16:14:58] "GET /check_phishing HTTP/1.1" 200 -]
+[2023-07-24 16:15:11,004: INFO: common_functionality: yaml file: config\config.yaml loaded successfully]
+[2023-07-24 16:15:13,159: INFO: _internal: 192.168.1.101 - - [24/Jul/2023 16:15:13] "POST /check_phishing HTTP/1.1" 200 -]
+[2023-07-24 16:15:28,978: INFO: common_functionality: yaml file: config\config.yaml loaded successfully]
+[2023-07-24 16:15:30,371: INFO: _internal: 192.168.1.101 - - [24/Jul/2023 16:15:30] "POST /check_phishing HTTP/1.1" 200 -]
+[2023-07-24 16:16:53,269: INFO: common_functionality: yaml file: config\config.yaml loaded successfully]
+[2023-07-24 16:16:54,767: INFO: _internal: 192.168.1.101 - - [24/Jul/2023 16:16:54] "POST /check_phishing HTTP/1.1" 200 -]
+[2023-07-24 16:17:43,319: INFO: common_functionality: yaml file: config\config.yaml loaded successfully]
+[2023-07-24 16:17:44,799: INFO: _internal: 192.168.1.101 - - [24/Jul/2023 16:17:44] "POST /check_phishing HTTP/1.1" 200 -]

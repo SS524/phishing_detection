@@ -1,0 +1,25 @@
+artifacts_root: artifacts
+
+
+data_ingestion:
+  root_dir: artifacts/data_ingestion
+  source_URL_phishing: https://raw.githubusercontent.com/shreyagopal/Phishing-Website-Detection-by-Machine-Learning-Techniques/master/DataFiles/2.online-valid.csv
+  source_URL_legit: https://raw.githubusercontent.com/shreyagopal/Phishing-Website-Detection-by-Machine-Learning-Techniques/master/DataFiles/1.Benign_list_big_final.csv
+  source_URL_ranking: https://drive.google.com/file/d/1-6U6vTmcFNNt6heoCDtNZDnrBYEnO-dY/view?usp=sharing
+  phishing_data_file: artifacts/data_ingestion/phishing.csv
+  legit_data_file: artifacts/data_ingestion/legit.csv
+  ranking_data_file: artifacts/data_ingestion/ranking.csv
+
+
+data_processing:
+  root_dir: artifacts/data_processing
+  final_data_file: artifacts/data_processing/final_data_for_model_building.pkl
+  scaling_object_path: artifacts/data_processing/scaling.pkl
+
+
+model_building:
+  root_dir: artifacts/model_building
+  trained_modl_file: artifacts/model_building/trained_model.pkl
+
+
+  

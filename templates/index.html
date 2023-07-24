@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Phishing checker</title>
+
+    <style>
+        body {
+            background-color: rgb(143, 29, 29);
+        }
+
+        .heading {
+            color: white;
+            font-size: 50px;
+            font-weight: bolder;
+            font-family: monospace;
+
+            text-align: center;
+            margin-top: 140px;
+        }
+
+        #review_text {
+            resize: none;
+            align-items: center;
+            margin-left: 320px;
+            /* width: 690px;
+            height: 200px; */
+            padding: 2px;
+        }
+
+        #review_text::placeholder {
+            font-size: 20px;
+            text-align: center;
+        }
+
+        #check_btn {
+            height: 45px;
+            margin-left: 626px;
+            margin-top: 10px;
+            background-color: lawngreen;
+            border-radius: 5px;
+            font-weight: bolder;
+            font-family: cursive;
+            font-size: 20px;
+        }
+
+       
+       
+        .res{
+            margin-left: 555px;
+        }
+
+
+        .sent_desc {
+            background-color: white;
+            width: 200px;
+            height: 70px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-left: 1090px;
+            margin-top: 8px;
+
+        }
+
+        .desc {
+            font-size: 24px;
+            text-align: center;
+            font-weight: bolder;
+        }
+    </style>
+</head>
+
+<body>
+    <h1 class="heading">Phishing detection</h1>
+  
+        <form action="/check_phishing" method="POST">
+            <div class="form-group">
+                
+                    <input class="form-control" id="review_text" name="url_input" placeholder="Verify your URL" required
+                    value="{{url}}" style="width: 500px; height: 40px; margin-left: 422px; border-radius: 3px;"/>
+                
+                
+            </div>
+            <div class="form-group">
+                <input id="check_btn" type="submit" class="btn btn-primary" value="Verify">
+            </div>
+        </form>
+
+  <div class="res">
+    <h3>{{result}}</h3>
+  </div>      
+  
+
+
+
+
+
+</body>
+
+</html>

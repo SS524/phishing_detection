@@ -1,0 +1,12 @@
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn==1.2.2
+ipykernel
+python-box==6.0.2
+ensure==1.0.2
+Flask
+pyYAML
+beautifulsoup4
+requests
