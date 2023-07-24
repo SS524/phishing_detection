@@ -10,3 +10,4 @@ Flask
 pyYAML
 beautifulsoup4
 requests
+gunicorn
