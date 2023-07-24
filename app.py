@@ -3,9 +3,9 @@ from src.phishingdetection.pipeline.predict import PredictionPipeline
 
 
 
-application=Flask(__name__)
+app=Flask(__name__)
 
-app=application
+
 
 @app.route('/home')
 def home_page():

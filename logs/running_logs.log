@@ -611,3 +611,14 @@ x==========x]
 [2023-07-24 16:16:54,767: INFO: _internal: 192.168.1.101 - - [24/Jul/2023 16:16:54] "POST /check_phishing HTTP/1.1" 200 -]
 [2023-07-24 16:17:43,319: INFO: common_functionality: yaml file: config\config.yaml loaded successfully]
 [2023-07-24 16:17:44,799: INFO: _internal: 192.168.1.101 - - [24/Jul/2023 16:17:44] "POST /check_phishing HTTP/1.1" 200 -]
+[2023-07-24 19:42:57,616: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.101:5000]
+[2023-07-24 19:42:57,650: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2023-07-24 19:43:22,563: INFO: _internal: 192.168.1.101 - - [24/Jul/2023 19:43:22] "[33mGET / HTTP/1.1[0m" 404 -]
+[2023-07-24 19:43:36,924: INFO: _internal: 192.168.1.101 - - [24/Jul/2023 19:43:36] "GET /home HTTP/1.1" 200 -]
+[2023-07-24 19:43:59,230: INFO: common_functionality: yaml file: config\config.yaml loaded successfully]
+[2023-07-24 19:44:02,797: INFO: _internal: 192.168.1.101 - - [24/Jul/2023 19:44:02] "POST /check_phishing HTTP/1.1" 200 -]
+[2023-07-24 19:44:36,243: INFO: common_functionality: yaml file: config\config.yaml loaded successfully]
+[2023-07-24 19:44:37,667: INFO: _internal: 192.168.1.101 - - [24/Jul/2023 19:44:37] "POST /check_phishing HTTP/1.1" 200 -]
